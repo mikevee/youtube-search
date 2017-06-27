@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+
+
+#list li{
+    list-style-type: none;
+    padding-left: 100px
+}
+
+
+#searchbar{
+    float: none;
+    margin: 0 auto;
+}
+
+#box{
+    margin-top: 20px;
+    margin-left: 90px;
+    width: 500px;
+    height: 50px
+}
+    
+#playColumn{
+    border-style: solid;
+    border-color: white;
+    height: 201px !important;
+    width: 326px !important;
+    margin-left: 100px;
+}
+
+#login-link{
+    color:white;
+}
+#videoPlayer{
+    margin-top:50px;
+}
+
+#search-button{
+    margin-left: 5px;
+    background-color:white;
+    border-radius: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    
+}
+
+#topButtons{
+    border-style: solid;
+    border-color: white;
+}
+#search-container{
+    color:white;
+}
+
+#query{
+    padding-top: 5px;
+    padding-bottom: 7px;
+}
+span{
+    font-size:18px;
+}
+#pause-button{
+    display: none;
+}
+#play-button{
+    display: none;
+}
